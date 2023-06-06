@@ -1,0 +1,5 @@
+mkdir "NombreCarpeta" = Sirve para crear una carpeta
+touch "NombreArchivo" = Sirve para crear un archivo con la la extención especificada
+git init = Iniciar un repositorio para trabajar dentro de un proyecto
+git push origin Rama = Sirve para pasar los cambios del repositorio local al repositorio remoto
+ls = Sirve para ver todos los archivos o carpetas contenidos dentro de la ruta en la que estamos
