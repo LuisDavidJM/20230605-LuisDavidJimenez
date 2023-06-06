@@ -1,0 +1,28 @@
+ 1313  git init
+ 1314  git remote add origin https://github.com/LuisDavidJM/20230605-LuisDavidJimenez.git
+ 1315  touch comandos.txt main.js index.html
+ 1316  ls
+ 1317  git add .
+ 1318  git commit -m "commit 01 de LuisDavidJimenez"
+ 1319  git push -u origin main
+ 1320  git branch feature01
+ 1321  git checkout feature01
+ 1322  mkdir Terminal Hardware
+ 1323  ls
+ 1324  touch Terminal/resume.txt Hardware/resume.txt
+ 1325  ls -R
+ 1326  git add .
+ 1327  git commit -m "commit 02 de LuisDavidJimenez"
+ 1328  git push origin feature01
+ 1329  git branch feature02
+ 1330  git checkout feature02
+ 1331  code .
+ 1332  git status
+ 1333  git add .
+ 1334  git commit -m "commit 03 de LuisDavidJimenez"
+ 1335  git push origin feature02
+ 1336  git checkout main
+ 1337  ls
+ 1338  mv comandos.txt comandosUtilizados.txt
+ 1339  ls
+ 1340  history
